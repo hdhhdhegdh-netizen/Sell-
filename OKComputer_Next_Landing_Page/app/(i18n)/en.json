@@ -1,0 +1,86 @@
+{
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "showcase": "Showcase",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Build the Future with Modern Web Technologies",
+    "subtitle": "Transform your business with our cutting-edge solutions powered by Next.js, TypeScript, and the latest web standards.",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "Learn More",
+    "users": "Happy Users",
+    "downloads": "Downloads",
+    "stars": "GitHub Stars"
+  },
+  "features": {
+    "title": "Why Choose Our Platform",
+    "subtitle": "Discover the powerful features that make our solution stand out",
+    "items": {
+      "performance": {
+        "title": "Lightning Fast",
+        "description": "Built with modern technologies for exceptional performance and user experience."
+      },
+      "responsive": {
+        "title": "Fully Responsive",
+        "description": "Seamlessly adapts to all devices and screen sizes with mobile-first design."
+      },
+      "accessible": {
+        "title": "Accessible",
+        "description": "WCAG compliant with semantic HTML and proper ARIA labels for all users."
+      },
+      "modern": {
+        "title": "Modern Stack",
+        "description": "Latest technologies including Next.js 15, TypeScript, and PandaCSS."
+      },
+      "international": {
+        "title": "International",
+        "description": "Full i18n support with RTL languages and dynamic content translation."
+      },
+      "optimized": {
+        "title": "SEO Optimized",
+        "description": "Built-in SEO features with metadata management and performance optimization."
+      }
+    }
+  },
+  "showcase": {
+    "title": "Our Success Stories",
+    "subtitle": "See how businesses are transforming with our modern solutions",
+    "projects": {
+      "ecommerce": {
+        "title": "E-Commerce Platform",
+        "description": "Modern shopping experience with real-time inventory and seamless checkout."
+      },
+      "dashboard": {
+        "title": "Analytics Dashboard",
+        "description": "Comprehensive data visualization with real-time insights and reporting."
+      },
+      "mobile": {
+        "title": "Mobile App",
+        "description": "Cross-platform mobile application with native performance."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "subtitle": "Join thousands of companies already using our platform",
+    "button": "Start Your Journey"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a project in mind? Let's discuss how we can help.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Modern Landing Page. All rights reserved.",
+    "social": "Follow us on social media"
+  }
+}
